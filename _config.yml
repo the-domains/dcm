@@ -1,0 +1,14 @@
+layout_spectrum: 0.6009419045876712
+typography_spectrum: 0.9638740094378591
+color:
+  brandStrength: 0.6907101296819746
+  lightness: 0.6645306148566306
+  saturation: 0.4903727450873703
+  rhythmicContrast: 0.5846478804014623
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+name: dcm
